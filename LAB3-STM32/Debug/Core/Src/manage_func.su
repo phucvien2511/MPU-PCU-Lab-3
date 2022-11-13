@@ -1,0 +1,5 @@
+manage_func.c:10:6:setStateForLEDs	24	static
+manage_func.c:19:6:display7SEG	16	static
+manage_func.c:116:6:setBuffer7SEG	24	static
+manage_func.c:122:6:update7SEG	24	static
+manage_func.c:182:6:blinkLEDAt2Hz	24	static

@@ -1,0 +1,5 @@
+display_func.c:11:6:setStateForLEDs	24	static
+display_func.c:19:6:display7SEG	16	static
+display_func.c:115:6:setBuffer7SEG	24	static
+display_func.c:121:6:update7SEG	24	static
+display_func.c:178:6:blinkLED	16	static
